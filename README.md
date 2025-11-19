@@ -124,7 +124,7 @@ hrms-assigment/
    
    Create `server/.env` file with the following content:
    ```
-   MONGO_URI=mongodb+srv://ayushgupta23332_db_user:p6FNeGX7Rs8SdK5V@cluster0.qnkmber.mongodb.net/?appName=Cluster0
+   MONGO_URI=Your_MongoDB_URL
    JWT_SECRET=your_super_secret_jwt_key_change_in_production
    PORT=5000
    ```
